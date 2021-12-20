@@ -3,4 +3,4 @@ Source code for Gaming Therapy, a mini-game where the player taps or clicks the 
 
 [Sketch](https://editor.p5js.org/Social.Sin/sketches/2GVFlEwP)
 
-[Portfolio](https://www.social-sin.com/gaming-therapy)
+[Project](https://www.social-sin.com/gaming-therapy)
